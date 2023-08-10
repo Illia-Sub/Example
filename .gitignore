@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Example/obj
+/Example/bin/Debug/net6.0
+/.vs/Example/v17/.suo
+/.vs/Example/FileContentIndex
+/.vs/ProjectEvaluation
+/Example/Example.csproj.user
+/.vs/Example/DesignTimeBuild/.dtbcache.v2
+/.vs/Example/v17/.futdcache.v2
+/.vs/Example/config/applicationhost.config
+/Example/Example.csproj.user
